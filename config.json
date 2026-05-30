@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfarse",
+        "uuid": 1234350,
+        "checksum": "do1xhh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
